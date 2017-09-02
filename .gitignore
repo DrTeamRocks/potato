@@ -1,5 +1,8 @@
 /.idea/
+/.sass-cache/
 /vendor/
 /composer.lock
 /public/vendor
 /public/index.html
+/public/css/*.css
+/public/css/*.css.map

@@ -1,10 +1,13 @@
-all: composer
+all: composer bower
 
 serve:
 	php -t ./public/ -S localhost:8888
 
 composer:
 	composer update
+
+bower:
+	bower install
 
 styles:
 	find public/css -name "*.scss" | \
