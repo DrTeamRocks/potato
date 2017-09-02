@@ -1,0 +1,23 @@
+{
+    "name": "drteam/potato",
+    "type": "project",
+    "description": "Landing page skeleton based on Twig",
+    "homepage": "https://github.com/DrTeamRocks/potato",
+    "license": "MIT",
+    "keywords": [
+        "landing-page",
+        "skeleton"
+    ],
+    "authors": [
+        {
+            "name": "Paul Rock",
+            "email": "paul@drteam.rocks",
+            "homepage": "https://drteam.rocks/",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "twig/twig": "^2.0"
+    },
+    "minimum-stability": "stable"
+}
