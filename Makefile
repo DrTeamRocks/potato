@@ -1,4 +1,4 @@
-all: composer bower
+all: composer bower styles
 
 serve:
 	php -t ./public/ -S localhost:8888
