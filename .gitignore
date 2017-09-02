@@ -4,5 +4,5 @@
 /composer.lock
 /public/vendor
 /public/index.html
-/public/css/*.css
-/public/css/*.css.map
+/public/css/*
+!/public/css/landing-page.css
