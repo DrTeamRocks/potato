@@ -1,8 +1,8 @@
 /.idea/
-/.sass-cache/
+/node_modules/
 /vendor/
 /composer.lock
+/package-lock.json
 /public/vendor
 /public/index.html
-/public/css/*
-!/public/css/landing-page.css
+/public/assets/

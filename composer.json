@@ -19,5 +19,13 @@
     "require": {
         "twig/twig": "^2.0"
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "stable",
+    "scripts": {
+        "serve": [
+            "php -t ./public/ -S localhost:8888"
+        ],
+        "static": [
+            "php -f ./public/index.php > ./public/index.html"
+        ]
+    }
 }
