@@ -1,3 +1,5 @@
+![Mr.Potato Logo](mr-potato.gif)
+
 # Hello, my name is ***Mister Potato***
 
 I'm a simple project skeleton for quickly creating landing pages on PHP,
